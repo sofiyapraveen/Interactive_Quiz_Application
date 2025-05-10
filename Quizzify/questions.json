@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "choice1": "Central Processing Unit",
+        "choice2": "Computer Personal Unit",
+        "choice3": "Central Process Unit",
+        "choice4": "Control Processing Unit",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an example of an operating system?",
+        "choice1": "Microsoft Word",
+        "choice2": "Windows 10",
+        "choice3": "Google Chrome",
+        "choice4": "Intel",
+        "answer": 2
+    },
+    {
+        "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+        "choice1": "Queue",
+        "choice2": "Stack",
+        "choice3": "Linked List",
+        "choice4": "Graph",
+        "answer": 2
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "choice1": "Hyper Text Transfer Protocol",
+        "choice2": "Hyperlink Transfer Text Protocol",
+        "choice3": "Hyper Transfer Text Processing",
+        "choice4": "High-level Text Transmission Protocol",
+        "answer": 1
+    },
+    {
+        "question": "Who is known as the father of the computer?",
+        "choice1": "Alan Turing",
+        "choice2": "Charles Babbage",
+        "choice3": "Dennis Ritchie",
+        "choice4": "Tim Berners-Lee",
+        "answer": 2
+    },
+    {
+        "question": "Which programming language is commonly used for web development?",
+        "choice1": "Python",
+        "choice2": "C++",
+        "choice3": "HTML",
+        "choice4": "Java",
+        "answer": 3
+    },
+    {
+        "question": "What is the main function of an operating system?",
+        "choice1": "Compiling code",
+        "choice2": "Managing hardware and software resources",
+        "choice3": "Sending emails",
+        "choice4": "Running web applications",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a relational database management system?",
+        "choice1": "MySQL",
+        "choice2": "MongoDB",
+        "choice3": "Redis",
+        "choice4": "Elasticsearch",
+        "answer": 1
+    },
+    {
+        "question": "Which company developed the Java programming language?",
+        "choice1": "Microsoft",
+        "choice2": "Sun Microsystems",
+        "choice3": "Google",
+        "choice4": "IBM",
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of binary search?",
+        "choice1": "O(n)",
+        "choice2": "O(log n)",
+        "choice3": "O(n^2)",
+        "choice4": "O(1)",
+        "answer": 2
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "choice1": "FTP",
+        "choice2": "SMTP",
+        "choice3": "HTTP",
+        "choice4": "SNMP",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a cloud computing service provider?",
+        "choice1": "AWS",
+        "choice2": "Intel",
+        "choice3": "Adobe Photoshop",
+        "choice4": "Oracle VM",
+        "answer": 1
+    },
+    {
+        "question": "What is the full form of RAM?",
+        "choice1": "Read Access Memory",
+        "choice2": "Random Application Memory",
+        "choice3": "Random Access Memory",
+        "choice4": "Read And Modify",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is NOT a programming language?",
+        "choice1": "Python",
+        "choice2": "C++",
+        "choice3": "Java",
+        "choice4": "Photoshop",
+        "answer": 4
+    },
+    {
+        "question": "What does SQL stand for?",
+        "choice1": "Structured Query Language",
+        "choice2": "Sequential Query Logic",
+        "choice3": "System Query Language",
+        "choice4": "Standard Question Language",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an example of a NoSQL database?",
+        "choice1": "PostgreSQL",
+        "choice2": "MongoDB",
+        "choice3": "MySQL",
+        "choice4": "Oracle",
+        "answer": 2
+    },
+    {
+        "question": "Which data structure is used to implement recursion?",
+        "choice1": "Queue",
+        "choice2": "Stack",
+        "choice3": "Array",
+        "choice4": "Linked List",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a version control system?",
+        "choice1": "Git",
+        "choice2": "Docker",
+        "choice3": "Kubernetes",
+        "choice4": "Apache",
+        "answer": 1
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "choice1": "Bubble Sort",
+        "choice2": "Selection Sort",
+        "choice3": "Merge Sort",
+        "choice4": "Insertion Sort",
+        "answer": 3
+    },
+    {
+        "question": "What is the main purpose of an IP address?",
+        "choice1": "To identify a website",
+        "choice2": "To connect to the internet",
+        "choice3": "To uniquely identify a device on a network",
+        "choice4": "To store data",
+        "answer": 3
+    }
+]
