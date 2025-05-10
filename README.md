@@ -16,3 +16,4 @@ DESCRIPTION: The Interactive Quiz Application is built using HTML, CSS, and Java
 
 
 # OUTPUT OF THE TASK 
+![Image](https://github.com/user-attachments/assets/988d2120-e95b-49c5-b4f2-afd9cd5c3685)
